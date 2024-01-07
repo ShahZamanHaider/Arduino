@@ -1,3 +1,6 @@
+//Written by SHAH ZAMAN HAIDER
+//https://github.com/ShahZamanHaider
+
 #include <SoftwareSerial.h>
 
 
@@ -102,3 +105,6 @@ void stop() {
   analogWrite(enA, 0);
   analogWrite(enB, 0);
 }
+
+//Written by SHAH ZAMAN HAIDER
+//https://github.com/ShahZamanHaider
