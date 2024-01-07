@@ -1,3 +1,6 @@
+//Written by SHAH ZAMAN HAIDER
+//https://github.com/ShahZamanHaider
+
 #include "esp_camera.h"
 #include <WiFi.h>
 #include <Arduino.h>
@@ -272,3 +275,7 @@ void setup() {
 void loop() {
   // Your loop code here, if needed
 }
+
+
+//Written by SHAH ZAMAN HAIDER
+//https://github.com/ShahZamanHaider
