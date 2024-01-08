@@ -1,3 +1,6 @@
+//Written by SHAH ZAMAN HAIDER
+//https://github.com/ShahZamanHaider
+
 #include "Servo.h"
 
 int pan_pin = 4; //Left Right
@@ -71,3 +74,7 @@ delay(10);
 delay(500);
 
 }
+
+
+//Written by SHAH ZAMAN HAIDER
+//https://github.com/ShahZamanHaider
